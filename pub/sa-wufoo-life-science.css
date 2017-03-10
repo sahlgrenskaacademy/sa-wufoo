@@ -33,7 +33,7 @@ form ul li.buttons {
 form ul li.buttons:after {
     content: " ";
     display: block;
-    background: url(https://sahlgrenskaacademy.github.io/sa-wufoo/pub/sa-wufoo-life-science-logotypes-550x95.png);
+    background: url(https://sahlgrenskaacademy.github.io/sa-wufoo/pub/sa-wufoo-life-science-logotypes-550x95.png) center center no-repeat;
     height: 95px;
     width: 100%;
     position: relative;
