@@ -30,7 +30,7 @@ FORM UL {
     width: 612px;
 }
 
-FOMR UL:after {
+FORM UL:after {
     content: " ";
     display: block;
     background: #c00;
